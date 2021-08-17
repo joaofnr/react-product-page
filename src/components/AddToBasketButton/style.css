@@ -1,0 +1,20 @@
+.add-to-basket-button{
+    background-color:#323537;
+    color:#FFFFFF;
+    border:1px solid transparent;
+    border-radius: 0;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.add-to-basket-button:hover{
+    background-color:#FFFFFF;
+    border:1px solid #323537;
+    color:#323537;
+}
+
+.add-to-basket-button:active{
+    background-color:#FFFFFF;
+    border:1px solid #000000;
+    color:#000000;
+}

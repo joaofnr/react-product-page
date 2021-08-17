@@ -1,3 +1,10 @@
+# Product Page React APP
+
+This is a study project created to practice react development.
+
+
+It may receive new features soon enough! Below you can find react's original README content
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
